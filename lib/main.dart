@@ -7,7 +7,6 @@ import 'package:pawspreferences_afs/screens/home/view/home_page.dart';
 // uses MVC structure and bloc on state management
 // uses external packages of
 // flutter_bloc on state management
-// cached_network_image for cache image
 // flutter tts for text to speech function
 
 void main() {
